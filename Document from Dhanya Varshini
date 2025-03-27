@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="DSC_0178.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>Ms.DHANYA VARSHINI.V</h1>
             <p>STUDENT</p>
         </div>
@@ -115,14 +115,14 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>A student of bca finished a intenship and sincre and focuse in work.</p>
+            <p>I'am student of Dr.MGR.JANAKI COLLEGE OF ARTS AND SCIENCE FOR WOMEN, I'am pursing a degree in BcaComputerapplication .I've had the opportunity to work on web development project which i improving my skill .</p>
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>University of Madras - Bca</p>
+            <p>DR.MGR.JANAKI COLLEGE OF ARTS AND SCIENCE FOR WOMEN Bca</p>
             
             
         </div>
@@ -147,10 +147,7 @@
         <div class="section-content">
             <h2>Intenship</h2>
             <ul>
-                <li><a href="#">AI Based alternator control system</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chetbot</a></li>
-                <li><a href="#">chetbot</a></li> 
+                <li><a App testing</a></li> 
                 <!-- Add more project links here -->
             </ul>
         </div>
